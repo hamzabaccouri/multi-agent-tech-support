@@ -1,0 +1,4 @@
+2025-01-14 15:16:42,304 - root - INFO - Initialized empty chat messages.
+2025-01-14 15:16:42,305 - root - INFO - Initializing AgentB...
+2025-01-14 15:16:42,789 - root - ERROR - Error initializing agents: AgentB.__init__() got an unexpected keyword argument 'collection_id'
+2025-01-14 15:16:42,995 - root - INFO - Logo loaded successfully.

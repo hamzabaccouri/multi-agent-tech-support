@@ -1,0 +1,86 @@
+{
+    "EN": [
+        {
+            "question": "Does MyApp support real-time collaboration?",
+            "answer": "Yes, MyApp allows multiple users to collaborate in real time on projects."
+        },
+        {
+            "question": "Can I integrate MyApp with third-party applications?",
+            "answer": "Yes, MyApp offers various integrations with popular third-party applications."
+        },
+        {
+            "question": "Does MyApp have a mobile version?",
+            "answer": "Yes, MyApp is available on both iOS and Android platforms."
+        },
+        {
+            "question": "Is MyApp capable of handling large data sets?",
+            "answer": "Yes, MyApp is designed to efficiently manage and process large data sets."
+        },
+        {
+            "question": "Can I customize the dashboard in MyApp?",
+            "answer": "Yes, MyApp provides options to customize your dashboard to fit your needs."
+        },
+        {
+            "question": "Does MyApp offer offline access?",
+            "answer": "Yes, MyApp allows offline access to certain features and files."
+        },
+        {
+            "question": "Is it possible to schedule tasks in MyApp?",
+            "answer": "Yes, MyApp includes a task scheduling feature to help you manage your time."
+        },
+        {
+            "question": "Can I export data from MyApp?",
+            "answer": "Yes, you can export data from MyApp in various formats."
+        },
+        {
+            "question": "Does MyApp support multi-language options?",
+            "answer": "Yes, MyApp supports multiple languages for a better user experience."
+        },
+        {
+            "question": "Can I create templates in MyApp?",
+            "answer": "Yes, MyApp allows users to create and save custom templates for future use."
+        }
+    ],
+    "FR": [
+        {
+            "question": "Est-ce que MyApp prend en charge la collaboration en temps réel?",
+            "answer": "Oui, MyApp permet à plusieurs utilisateurs de collaborer en temps réel sur des projets."
+        },
+        {
+            "question": "Puis-je intégrer MyApp avec des applications tierces?",
+            "answer": "Oui, MyApp propose diverses intégrations avec des applications tierces populaires."
+        },
+        {
+            "question": "MyApp a-t-il une version mobile?",
+            "answer": "Oui, MyApp est disponible sur les plateformes iOS et Android."
+        },
+        {
+            "question": "MyApp est-il capable de gérer de grands ensembles de données?",
+            "answer": "Oui, MyApp est conçu pour gérer et traiter efficacement de grands ensembles de données."
+        },
+        {
+            "question": "Puis-je personnaliser le tableau de bord dans MyApp?",
+            "answer": "Oui, MyApp offre des options pour personnaliser votre tableau de bord selon vos besoins."
+        },
+        {
+            "question": "MyApp offre-t-il un accès hors ligne?",
+            "answer": "Oui, MyApp permet un accès hors ligne à certaines fonctionnalités et fichiers."
+        },
+        {
+            "question": "Est-il possible de planifier des tâches dans MyApp?",
+            "answer": "Oui, MyApp comprend une fonctionnalité de planification des tâches pour vous aider à gérer votre temps."
+        },
+        {
+            "question": "Puis-je exporter des données depuis MyApp?",
+            "answer": "Oui, vous pouvez exporter des données depuis MyApp dans divers formats."
+        },
+        {
+            "question": "MyApp prend-il en charge des options multilingues?",
+            "answer": "Oui, MyApp prend en charge plusieurs langues pour une meilleure expérience utilisateur."
+        },
+        {
+            "question": "Puis-je créer des modèles dans MyApp?",
+            "answer": "Oui, MyApp permet aux utilisateurs de créer et d'enregistrer des modèles personnalisés pour une utilisation future."
+        }
+    ]
+}

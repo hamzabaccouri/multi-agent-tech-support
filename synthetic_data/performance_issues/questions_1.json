@@ -1,0 +1,86 @@
+{
+    "EN": [
+        {
+            "question": "Why is MyApp running slow on my laptop?",
+            "answer": "MyApp may be running slow due to insufficient RAM or CPU resources. Try closing other applications to free up resources."
+        },
+        {
+            "question": "How can I improve the performance of MyApp?",
+            "answer": "You can improve performance by updating to the latest version, checking your internet connection, and clearing the app's cache."
+        },
+        {
+            "question": "What could cause MyApp to lag during use?",
+            "answer": "Lagging could be caused by high CPU usage, lack of memory, or network issues."
+        },
+        {
+            "question": "Is there a way to optimize MyApp's settings for better performance?",
+            "answer": "Yes, you can optimize performance by adjusting the settings in the app, such as reducing visual effects and disabling unnecessary features."
+        },
+        {
+            "question": "Why does MyApp freeze sometimes?",
+            "answer": "Freezing may occur due to software bugs, insufficient hardware resources, or conflicts with other applications."
+        },
+        {
+            "question": "Can I run MyApp on older devices without performance issues?",
+            "answer": "Running MyApp on older devices may result in performance issues, as it may not meet the minimum system requirements."
+        },
+        {
+            "question": "What should I do if MyApp is slowing down my entire system?",
+            "answer": "If MyApp is slowing down your system, you should check for updates, close other programs, and consider increasing system RAM."
+        },
+        {
+            "question": "Does running MyApp offline affect its performance?",
+            "answer": "Running MyApp offline can affect performance, especially if the app relies on cloud data or requires an internet connection for certain functions."
+        },
+        {
+            "question": "How can I monitor MyApp's performance on my device?",
+            "answer": "You can monitor MyApp's performance using task manager tools or performance monitoring software to check CPU and memory usage."
+        },
+        {
+            "question": "Are there known issues with MyApp's performance on specific operating systems?",
+            "answer": "Yes, there can be known performance issues with MyApp on certain operating systems. Please refer to the official documentation for details."
+        }
+    ],
+    "FR": [
+        {
+            "question": "Pourquoi MyApp fonctionne-t-il lentement sur mon ordinateur portable ?",
+            "answer": "MyApp peut fonctionner lentement en raison d'une RAM ou d'une puissance CPU insuffisante. Essayez de fermer d'autres applications pour libérer des ressources."
+        },
+        {
+            "question": "Comment puis-je améliorer les performances de MyApp ?",
+            "answer": "Vous pouvez améliorer les performances en mettant à jour vers la dernière version, en vérifiant votre connexion Internet et en effaçant le cache de l'application."
+        },
+        {
+            "question": "Qu'est-ce qui pourrait provoquer des ralentissements de MyApp pendant son utilisation ?",
+            "answer": "Les ralentissements peuvent être causés par une forte utilisation du CPU, un manque de mémoire ou des problèmes de réseau."
+        },
+        {
+            "question": "Y a-t-il un moyen d'optimiser les paramètres de MyApp pour de meilleures performances ?",
+            "answer": "Oui, vous pouvez optimiser les performances en ajustant les paramètres dans l'application, comme réduire les effets visuels et désactiver des fonctionnalités inutiles."
+        },
+        {
+            "question": "Pourquoi MyApp se fige parfois ?",
+            "answer": "Les blocages peuvent survenir en raison de bugs logiciels, de ressources matérielles insuffisantes ou de conflits avec d'autres applications."
+        },
+        {
+            "question": "Puis-je utiliser MyApp sur des appareils plus anciens sans problèmes de performance ?",
+            "answer": "L'utilisation de MyApp sur des appareils plus anciens peut entraîner des problèmes de performance, car il se peut qu'ils ne respectent pas les exigences minimales du système."
+        },
+        {
+            "question": "Que dois-je faire si MyApp ralentit tout mon système ?",
+            "answer": "Si MyApp ralentit votre système, vous devez vérifier les mises à jour, fermer d'autres programmes et envisager d'augmenter la RAM du système."
+        },
+        {
+            "question": "L'utilisation de MyApp hors ligne affecte-t-elle ses performances ?",
+            "answer": "L'utilisation de MyApp hors ligne peut affecter les performances, surtout si l'application dépend des données dans le cloud ou nécessite une connexion Internet pour certaines fonctions."
+        },
+        {
+            "question": "Comment puis-je surveiller les performances de MyApp sur mon appareil ?",
+            "answer": "Vous pouvez surveiller les performances de MyApp en utilisant des outils de gestion des tâches ou des logiciels de surveillance des performances pour vérifier l'utilisation du CPU et de la mémoire."
+        },
+        {
+            "question": "Y a-t-il des problèmes connus concernant les performances de MyApp sur des systèmes d'exploitation spécifiques ?",
+            "answer": "Oui, il peut y avoir des problèmes de performance connus avec MyApp sur certains systèmes d'exploitation. Veuillez consulter la documentation officielle pour plus de détails."
+        }
+    ]
+}

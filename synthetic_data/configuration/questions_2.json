@@ -1,0 +1,86 @@
+{
+    "EN": [
+        {
+            "question": "How do I configure MyApp for multi-user access?",
+            "answer": "To configure MyApp for multi-user access, go to the settings panel, select 'User Management', and add users with their respective permissions."
+        },
+        {
+            "question": "What are the steps to integrate MyApp with a third-party API?",
+            "answer": "To integrate MyApp with a third-party API, navigate to the integration settings, enter your API credentials, and follow the provided setup instructions."
+        },
+        {
+            "question": "Can I change the default language of MyApp?",
+            "answer": "Yes, you can change the default language of MyApp in the settings under 'Language Preferences'."
+        },
+        {
+            "question": "How do I set up notifications in MyApp?",
+            "answer": "To set up notifications in MyApp, go to the notifications settings and enable the types of alerts you want to receive."
+        },
+        {
+            "question": "What settings are necessary for optimal performance of MyApp?",
+            "answer": "For optimal performance, ensure you allocate sufficient system resources, configure caching settings, and choose the right database options."
+        },
+        {
+            "question": "How do I configure user roles in MyApp?",
+            "answer": "User roles can be configured in the 'User Management' section under settings, where you can create and modify roles as needed."
+        },
+        {
+            "question": "Is it possible to customize the dashboard layout in MyApp?",
+            "answer": "Yes, you can customize the dashboard layout in MyApp by selecting 'Dashboard Settings' and adjusting the widgets as per your preference."
+        },
+        {
+            "question": "How can I link MyApp to my email account?",
+            "answer": "To link MyApp to your email account, go to the email configuration settings and enter your email SMTP server details."
+        },
+        {
+            "question": "What is the procedure to back up MyApp configuration settings?",
+            "answer": "To back up your MyApp configuration settings, navigate to the backup section in settings and follow the prompts to create a backup."
+        },
+        {
+            "question": "How do I reset MyApp to default settings?",
+            "answer": "You can reset MyApp to default settings in the settings panel by selecting 'Reset to Default' under the 'General Settings' section."
+        }
+    ],
+    "FR": [
+        {
+            "question": "Comment configurer MyApp pour un accès multi-utilisateur?",
+            "answer": "Pour configurer MyApp pour un accès multi-utilisateur, accédez au panneau de paramètres, sélectionnez 'Gestion des utilisateurs' et ajoutez des utilisateurs avec leurs autorisations respectives."
+        },
+        {
+            "question": "Quelles sont les étapes pour intégrer MyApp avec une API tierce?",
+            "answer": "Pour intégrer MyApp avec une API tierce, allez dans les paramètres d'intégration, saisissez vos identifiants API et suivez les instructions de configuration fournies."
+        },
+        {
+            "question": "Puis-je changer la langue par défaut de MyApp?",
+            "answer": "Oui, vous pouvez changer la langue par défaut de MyApp dans les paramètres sous 'Préférences de langue'."
+        },
+        {
+            "question": "Comment configurer les notifications dans MyApp?",
+            "answer": "Pour configurer les notifications dans MyApp, allez dans les paramètres des notifications et activez les types d'alertes que vous souhaitez recevoir."
+        },
+        {
+            "question": "Quels réglages sont nécessaires pour une performance optimale de MyApp?",
+            "answer": "Pour une performance optimale, assurez-vous d'allouer suffisamment de ressources système, de configurer les réglages de cache et de choisir les bonnes options de base de données."
+        },
+        {
+            "question": "Comment configurer les rôles d'utilisateur dans MyApp?",
+            "answer": "Les rôles d'utilisateur peuvent être configurés dans la section 'Gestion des utilisateurs' sous paramètres, où vous pouvez créer et modifier des rôles selon vos besoins."
+        },
+        {
+            "question": "Est-il possible de personnaliser la disposition du tableau de bord dans MyApp?",
+            "answer": "Oui, vous pouvez personnaliser la disposition du tableau de bord dans MyApp en sélectionnant 'Paramètres du tableau de bord' et en ajustant les widgets selon vos préférences."
+        },
+        {
+            "question": "Comment puis-je lier MyApp à mon compte email?",
+            "answer": "Pour lier MyApp à votre compte email, allez dans les paramètres de configuration de l'email et saisissez les détails de votre serveur SMTP email."
+        },
+        {
+            "question": "Quelle est la procédure pour sauvegarder les paramètres de configuration de MyApp?",
+            "answer": "Pour sauvegarder vos paramètres de configuration MyApp, accédez à la section de sauvegarde dans les paramètres et suivez les instructions pour créer une sauvegarde."
+        },
+        {
+            "question": "Comment réinitialiser MyApp aux paramètres par défaut?",
+            "answer": "Vous pouvez réinitialiser MyApp aux paramètres par défaut dans le panneau de paramètres en sélectionnant 'Réinitialiser aux paramètres par défaut' sous la section 'Paramètres généraux'."
+        }
+    ]
+}

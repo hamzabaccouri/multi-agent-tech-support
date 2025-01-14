@@ -1,0 +1,46 @@
+{
+    "EN": [
+        {
+            "question": "How do I install MyApp on Windows?",
+            "answer": "To install MyApp on Windows, download the installer from our website, double-click the downloaded file, and follow the on-screen instructions."
+        },
+        {
+            "question": "What are the system requirements for installing MyApp?",
+            "answer": "The minimum system requirements for installing MyApp are Windows 10, 4 GB of RAM, and 500 MB of disk space."
+        },
+        {
+            "question": "Can I install MyApp on macOS?",
+            "answer": "Yes, MyApp can be installed on macOS. Download the .dmg file and drag the application to your Applications folder."
+        },
+        {
+            "question": "How do I uninstall MyApp from my computer?",
+            "answer": "To uninstall MyApp, go to the Control Panel on Windows, select 'Programs', find MyApp, and choose 'Uninstall'. On macOS, drag the application to the Trash."
+        },
+        {
+            "question": "Is there a portable version of MyApp available?",
+            "answer": "Currently, there is no portable version of MyApp available for installation."
+        }
+    ],
+    "FR": [
+        {
+            "question": "Comment installer MyApp sur Windows ?",
+            "answer": "Pour installer MyApp sur Windows, téléchargez l'installateur depuis notre site web, double-cliquez sur le fichier téléchargé et suivez les instructions à l'écran."
+        },
+        {
+            "question": "Quels sont les critères système pour installer MyApp ?",
+            "answer": "Les critères système minimaux pour installer MyApp sont Windows 10, 4 Go de RAM et 500 Mo d'espace disque."
+        },
+        {
+            "question": "Puis-je installer MyApp sur macOS ?",
+            "answer": "Oui, MyApp peut être installé sur macOS. Téléchargez le fichier .dmg et faites glisser l'application dans votre dossier Applications."
+        },
+        {
+            "question": "Comment désinstaller MyApp de mon ordinateur ?",
+            "answer": "Pour désinstaller MyApp, allez dans le Panneau de configuration sur Windows, sélectionnez 'Programmes', trouvez MyApp et choisissez 'Désinstaller'. Sur macOS, faites glisser l'application dans la Corbeille."
+        },
+        {
+            "question": "Y a-t-il une version portable de MyApp disponible ?",
+            "answer": "Actuellement, il n'y a pas de version portable de MyApp disponible pour installation."
+        }
+    ]
+}

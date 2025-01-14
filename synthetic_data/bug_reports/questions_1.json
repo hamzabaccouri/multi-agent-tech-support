@@ -1,0 +1,86 @@
+{
+    "EN": [
+        {
+            "question": "I'm experiencing slow performance when I open MyApp.",
+            "answer": "You may try clearing the cache of MyApp and ensuring that your device has enough resources available."
+        },
+        {
+            "question": "I'm getting an error message when I try to save my work in MyApp.",
+            "answer": "Make sure that you have write permissions for the folder where you're trying to save your work. If the issue persists, try restarting the application."
+        },
+        {
+            "question": "I'm facing crashes when I try to upload files in MyApp.",
+            "answer": "Check if the files you're trying to upload are in a supported format and within the size limit. Additionally, ensure that you are running the latest version of MyApp."
+        },
+        {
+            "question": "I'm unable to connect to the internet while using MyApp.",
+            "answer": "Please check your network settings and ensure that your device is connected to the internet. Restarting your device may also help."
+        },
+        {
+            "question": "I'm seeing graphical glitches when I use MyApp on my computer.",
+            "answer": "This could be due to outdated graphics drivers. Check for updates for your graphics card drivers and install any available updates."
+        },
+        {
+            "question": "I'm experiencing freezing when I run MyApp on my mobile device.",
+            "answer": "Try closing other applications running in the background or restarting your device to free up resources."
+        },
+        {
+            "question": "I'm having trouble logging into MyApp after resetting my password.",
+            "answer": "Make sure you are using the correct email and the new password. If the problem continues, try clearing the app's cache or reinstalling the app."
+        },
+        {
+            "question": "I'm not receiving notifications from MyApp.",
+            "answer": "Check your notification settings both in the app and on your device to ensure notifications are enabled for MyApp."
+        },
+        {
+            "question": "I'm experiencing delays in receiving updates from MyApp.",
+            "answer": "Ensure you have a stable internet connection and check for any app updates in the app store."
+        },
+        {
+            "question": "I'm facing issues with the sync feature in MyApp.",
+            "answer": "Make sure that your internet connection is stable and that you are signed in to the same account on all devices."
+        }
+    ],
+    "FR": [
+        {
+            "question": "J'éprouve des performances lentes lorsque j'ouvre MyApp.",
+            "answer": "Essayez de vider le cache de MyApp et de vous assurer que votre appareil dispose de suffisamment de ressources disponibles."
+        },
+        {
+            "question": "Je reçois un message d'erreur lorsque j'essaie de sauvegarder mon travail dans MyApp.",
+            "answer": "Assurez-vous d'avoir les permissions d'écriture pour le dossier où vous essayez de sauvegarder votre travail. Si le problème persiste, essayez de redémarrer l'application."
+        },
+        {
+            "question": "J'ai des plantages lorsque j'essaie de télécharger des fichiers dans MyApp.",
+            "answer": "Vérifiez si les fichiers que vous essayez de télécharger sont dans un format supporté et respectent la limite de taille. De plus, assurez-vous d'utiliser la dernière version de MyApp."
+        },
+        {
+            "question": "Je ne peux pas me connecter à Internet pendant que j'utilise MyApp.",
+            "answer": "Veuillez vérifier vos paramètres de réseau et vous assurer que votre appareil est connecté à Internet. Redémarrer votre appareil peut également aider."
+        },
+        {
+            "question": "Je vois des glitches graphiques lorsque j'utilise MyApp sur mon ordinateur.",
+            "answer": "Cela pourrait être dû à des pilotes graphiques obsolètes. Vérifiez les mises à jour pour les pilotes de votre carte graphique et installez toutes les mises à jour disponibles."
+        },
+        {
+            "question": "J'éprouve des blocages lorsque j'exécute MyApp sur mon appareil mobile.",
+            "answer": "Essayez de fermer d'autres applications en arrière-plan ou redémarrez votre appareil pour libérer des ressources."
+        },
+        {
+            "question": "J'ai des problèmes pour me connecter à MyApp après avoir réinitialisé mon mot de passe.",
+            "answer": "Assurez-vous d'utiliser le bon e-mail et le nouveau mot de passe. Si le problème persiste, essayez de vider le cache de l'application ou de réinstaller l'application."
+        },
+        {
+            "question": "Je ne reçois pas de notifications de MyApp.",
+            "answer": "Vérifiez vos paramètres de notification à la fois dans l'application et sur votre appareil pour vous assurer que les notifications sont activées pour MyApp."
+        },
+        {
+            "question": "J'éprouve des retards dans la réception des mises à jour de MyApp.",
+            "answer": "Assurez-vous d'avoir une connexion Internet stable et vérifiez s'il y a des mises à jour de l'application dans le magasin d'applications."
+        },
+        {
+            "question": "J'ai des problèmes avec la fonction de synchronisation de MyApp.",
+            "answer": "Assurez-vous que votre connexion Internet est stable et que vous êtes connecté au même compte sur tous les appareils."
+        }
+    ]
+}

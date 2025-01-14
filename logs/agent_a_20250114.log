@@ -1,0 +1,148 @@
+2025-01-14 11:51:32,586 - Agent A - INFO - Initialized Agent A with model gpt-4
+2025-01-14 11:51:32,587 - Agent A - INFO - Processing query: How do I install MyApp on Windows?
+2025-01-14 11:51:38,693 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'installation', 'needs_technical_expertise': False, 'confidence': 0.9, 'keywords': ['install', 'MyApp', 'Windows'], 'reasoning': 'The user is asking a straightforward question about how to install an application on Windows. This is a common task that does not require advanced technical knowledge.'}
+2025-01-14 11:51:38,695 - Agent A - INFO - Handling query directly
+2025-01-14 11:59:00,409 - Agent A - INFO - Initialized Agent A with model gpt-4
+2025-01-14 11:59:00,410 - Agent A - INFO - Processing query: I'm getting a dependency conflict error while installing MyApp on Windows 11
+2025-01-14 11:59:05,025 - Agent A - INFO - Query analysis: {'complexity': 'medium', 'category': 'installation', 'needs_technical_expertise': True, 'confidence': 0.8, 'keywords': ['dependency conflict', 'error', 'installing', 'MyApp', 'Windows 11'], 'reasoning': "The user is experiencing a dependency conflict error while attempting to install an application on Windows 11. This indicates that the application may have dependencies that are incompatible with each other or with the system's current configuration. Resolving this issue may require technical expertise to identify and resolve the conflicting dependencies."}
+2025-01-14 11:59:05,028 - Agent A - INFO - Escalating to Agent B
+2025-01-14 12:04:34,589 - Agent A - INFO - Initialized Agent A with model gpt-4
+2025-01-14 12:04:34,591 - Agent A - INFO - Processing query: How do I install MyApp on Windows?
+2025-01-14 12:04:38,657 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'installation', 'needs_technical_expertise': False, 'confidence': 0.9, 'keywords': ['install', 'MyApp', 'Windows'], 'reasoning': 'The user is asking a basic question about how to install an application on a Windows operating system. This is a common task that does not typically require advanced technical expertise.'}
+2025-01-14 12:04:38,661 - Agent A - INFO - Handling query directly
+2025-01-14 12:31:26,208 - Agent A - INFO - Initialized Agent A with model gpt-4
+2025-01-14 12:31:26,210 - Agent A - INFO - Processing query: I'm experiencing frequent crashes and high CPU usage when running MyApp on Windows 11. The error log shows dependency conflicts, and it happens especially when I try to process large files. I've already tried restarting the application but the problem persists. Can you help me diagnose and fix this?
+2025-01-14 12:31:35,808 - Agent A - INFO - Query analysis: {'complexity': 'medium', 'category': 'performance', 'needs_technical_expertise': True, 'confidence': 0.8, 'keywords': ['crashes', 'high CPU usage', 'MyApp', 'Windows 11', 'error log', 'dependency conflicts', 'large files', 'restarting', 'application'], 'reasoning': 'The user is experiencing performance issues with an application on Windows 11, specifically frequent crashes and high CPU usage. The problem seems to be related to dependency conflicts and processing large files. The user has tried basic troubleshooting like restarting the application but the issue persists. This requires technical expertise to diagnose and resolve.'}
+2025-01-14 12:31:35,810 - Agent A - INFO - Escalating to Agent B
+2025-01-14 12:32:07,036 - Agent A - INFO - Initialized Agent A with model gpt-4
+2025-01-14 12:32:07,037 - Agent A - INFO - Processing query: I'm experiencing frequent crashes and high CPU usage when running MyApp on Windows 11. The error log shows dependency conflicts, and it happens especially when I try to process large files. I've already tried restarting the application but the problem persists. Can you help me diagnose and fix this?
+2025-01-14 12:32:12,127 - Agent A - INFO - Query analysis: {'complexity': 'medium', 'category': 'performance', 'needs_technical_expertise': True, 'confidence': 0.8, 'keywords': ['crashes', 'high CPU usage', 'MyApp', 'Windows 11', 'error log', 'dependency conflicts', 'large files', 'restarting'], 'reasoning': 'The user is experiencing performance issues with an application on Windows 11. The issues include frequent crashes and high CPU usage, especially when processing large files. The error log indicates dependency conflicts. The user has tried restarting the application, but the problem persists. This requires technical expertise to diagnose and fix.'}
+2025-01-14 12:32:12,130 - Agent A - INFO - Escalating to Agent B
+2025-01-14 13:16:32,588 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 13:16:32,589 - Agent A - INFO - Processing query: hello there 
+2025-01-14 13:16:34,662 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'other', 'needs_technical_expertise': False, 'confidence': 0.5, 'keywords': [], 'reasoning': "The query 'hello there' does not provide any specific technical information or context related to installation, configuration, bug, performance, or security issues. It seems to be a general greeting or introductory message without a clear technical support request."}
+2025-01-14 13:16:34,665 - Agent A - INFO - Escalating to Agent B
+2025-01-14 13:18:50,207 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 13:18:50,208 - Agent A - INFO - Processing query: hello there 
+2025-01-14 13:18:51,899 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'other', 'needs_technical_expertise': False, 'confidence': 0.5, 'keywords': [], 'reasoning': "The query 'hello there' is very vague and does not provide any specific information related to installation, configuration, bugs, performance, or security issues. It seems to be a general greeting rather than a technical support request."}
+2025-01-14 13:18:51,901 - Agent A - INFO - Escalating to Agent B
+2025-01-14 13:21:04,484 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 13:23:21,631 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 13:23:30,387 - Agent A - INFO - Processing query: hello there 
+2025-01-14 13:23:32,132 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'other', 'needs_technical_expertise': False, 'confidence': 0.5, 'keywords': [], 'reasoning': "The query 'hello there' does not provide any specific technical information or context related to installation, configuration, bug, performance, or security issues. It seems to be a general greeting or introduction rather than a technical support request."}
+2025-01-14 13:23:32,134 - Agent A - INFO - Escalating to Agent B
+2025-01-14 13:24:01,288 - Agent A - INFO - Processing query: How do I install MyApp on Windows?
+2025-01-14 13:24:02,554 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'installation', 'needs_technical_expertise': False, 'confidence': 0.8, 'keywords': ['install', 'MyApp', 'Windows'], 'reasoning': 'The query is straightforward and only involves the installation of an application on a specific operating system. No technical expertise is required for this task.'}
+2025-01-14 13:24:02,555 - Agent A - INFO - Handling query directly
+2025-01-14 13:25:22,715 - Agent A - INFO - Processing query: I'm experiencing frequent crashes and high CPU usage when running MyApp on Windows 11. The error log shows dependency conflicts, and it happens especially when I try to process large files. I've already tried restarting the application but the problem persists. Can you help me diagnose and fix this?
+2025-01-14 13:25:24,191 - Agent A - INFO - Query analysis: {'complexity': 'high', 'category': 'performance', 'needs_technical_expertise': True, 'confidence': 0.8, 'keywords': ['crashes', 'high CPU usage', 'dependency conflicts', 'large files', 'error log'], 'reasoning': 'The query involves frequent crashes and high CPU usage, indicating a performance issue. The presence of dependency conflicts and the specific scenario of processing large files suggest a complex problem that may require technical expertise to diagnose and fix.'}
+2025-01-14 13:25:24,194 - Agent A - INFO - Escalating to Agent B
+2025-01-14 13:50:02,780 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 13:50:13,816 - Agent A - INFO - Processing query: hi there 
+2025-01-14 13:50:15,025 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'other', 'needs_technical_expertise': False, 'confidence': 0.7, 'keywords': [], 'reasoning': "The query 'hi there' is very vague and does not provide any specific information related to installation, configuration, bugs, performance, or security issues. It seems to be a general greeting or opening message rather than a technical support request."}
+2025-01-14 13:50:15,028 - Agent A - INFO - Handling query directly
+2025-01-14 13:50:30,891 - Agent A - INFO - Processing query: What are the system requirements for installing MyApp?
+2025-01-14 13:50:32,681 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'installation', 'needs_technical_expertise': False, 'confidence': 0.8, 'keywords': ['system requirements', 'installing', 'MyApp'], 'reasoning': 'The query is straightforward and only requires knowledge of the system requirements for installing an application. No technical expertise is needed to answer this question.'}
+2025-01-14 13:50:32,681 - Agent A - INFO - Handling query directly
+2025-01-14 13:52:34,636 - Agent A - INFO - Processing query: I'm experiencing severe performance degradation in MyApp when processing multiple large CSV files simultaneously. The system shows high memory usage (around 90%), and I'm getting 'OutOfMemoryError' in the logs. I've already tried increasing the JVM heap size to 8GB but the issue persists. The CPU usage also spikes to 100% during these operations. What could be causing this and how can I optimize the application?
+2025-01-14 13:52:36,182 - Agent A - INFO - Query analysis: {'complexity': 'high', 'category': 'performance', 'needs_technical_expertise': True, 'confidence': 0.8, 'keywords': ['OutOfMemoryError', 'JVM heap size', 'CPU usage', 'large CSV files'], 'reasoning': 'The query indicates a high complexity issue related to performance degradation when processing large CSV files. The presence of OutOfMemoryError and high CPU and memory usage suggest potential memory management and processing inefficiencies. Technical expertise is required to analyze and optimize the application for better performance.'}
+2025-01-14 13:52:36,184 - Agent A - INFO - Escalating to Agent B
+2025-01-14 13:53:07,145 - Agent A - INFO - Processing query: When trying to integrate MyApp with our company's SQL Server database, I'm getting multiple dependency conflicts. The error log shows 'javax.persistence.PersistenceException' and 'org.hibernate.HibernateException'. I've checked the connection strings and database permissions, and tried updating all dependencies in the pom.xml file, but the application still fails to establish a connection. The specific version of SQL Server we're using is 2019 Enterprise. Can you help troubleshoot this integration issue?
+2025-01-14 13:53:08,795 - Agent A - INFO - Query analysis: {'complexity': 'high', 'category': 'integration', 'needs_technical_expertise': True, 'confidence': 0.8, 'keywords': ['SQL Server', 'dependency conflicts', 'javax.persistence.PersistenceException', 'org.hibernate.HibernateException', 'pom.xml', 'connection strings', 'database permissions'], 'reasoning': 'The query involves multiple dependency conflicts and errors related to persistence and hibernate. Troubleshooting integration issues with SQL Server 2019 Enterprise requires a high level of technical expertise and understanding of database connectivity and dependencies.'}
+2025-01-14 13:53:08,797 - Agent A - INFO - Escalating to Agent B
+2025-01-14 14:26:14,641 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 14:28:02,609 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 14:31:33,389 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 14:35:54,475 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 14:36:27,542 - Agent A - INFO - Processing query: I'm experiencing freezing when I run MyApp on my mobile device.
+2025-01-14 14:36:28,811 - Agent A - INFO - Query analysis: {'complexity': 'medium', 'category': 'performance', 'needs_technical_expertise': True, 'confidence': 0.8, 'keywords': ['freezing', 'MyApp', 'mobile device'], 'reasoning': 'The issue of freezing on a mobile device while running an application like MyApp suggests a performance problem. It may be caused by resource-intensive tasks, memory leaks, inefficient code, or compatibility issues. Technical expertise may be required to diagnose and resolve the issue.'}
+2025-01-14 14:36:28,811 - Agent A - INFO - Escalating to Agent B
+2025-01-14 15:00:45,481 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 15:00:54,243 - Agent A - INFO - Processing query: hi there 
+2025-01-14 15:00:56,743 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'other', 'needs_technical_expertise': False, 'confidence': 0.5, 'keywords': [], 'reasoning': "The query 'hi there' is very vague and does not provide any specific information related to installation, configuration, bugs, performance, or security issues. It seems to be a general greeting rather than a technical support request."}
+2025-01-14 15:00:56,743 - Agent A - INFO - Escalating to Agent B
+2025-01-14 15:01:17,256 - Agent A - INFO - Processing query: Quels sont les critères système pour installer MyApp ?
+2025-01-14 15:01:18,762 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'installation', 'needs_technical_expertise': False, 'confidence': 0.8, 'keywords': ['critères système', 'MyApp'], 'reasoning': 'The query is straightforward and only asks for the system requirements for installing MyApp. It does not require in-depth technical expertise and can be easily answered with basic knowledge of the application.'}
+2025-01-14 15:01:18,763 - Agent A - INFO - Handling query directly
+2025-01-14 15:01:34,556 - Agent A - INFO - Processing query: Y a-t-il une version portable de MyApp disponible ?
+2025-01-14 15:01:36,409 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'installation', 'needs_technical_expertise': False, 'confidence': 0.8, 'keywords': ['version portable', 'MyApp'], 'reasoning': "The query is asking if there is a portable version of the application available, indicating a need for installation information. The question does not require technical expertise and can be easily answered by checking the application's official website or documentation."}
+2025-01-14 15:01:36,410 - Agent A - INFO - Handling query directly
+2025-01-14 15:02:05,115 - Agent A - INFO - Processing query: J'ai des problèmes avec la fonction de synchronisation de MyApp ?
+2025-01-14 15:02:06,857 - Agent A - INFO - Query analysis: {'complexity': 'medium', 'category': 'bug', 'needs_technical_expertise': True, 'confidence': 0.8, 'keywords': ['synchronization', 'MyApp', 'problems'], 'reasoning': 'The query indicates a specific issue with the synchronization function of the application, suggesting a bug in the software. Technical expertise may be required to troubleshoot and resolve the issue effectively.'}
+2025-01-14 15:02:06,858 - Agent A - INFO - Escalating to Agent B
+2025-01-14 15:07:38,541 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 15:08:10,725 - Agent A - INFO - Processing query: J'éprouve des performances lentes lorsque j'ouvre MyApp?
+2025-01-14 15:08:12,087 - Agent A - INFO - Query analysis: {'complexity': 'medium', 'category': 'performance', 'needs_technical_expertise': True, 'confidence': 0.8, 'keywords': ['performances lentes', 'ouvrir', 'MyApp'], 'reasoning': 'The query indicates a performance issue with opening the application MyApp. This may require troubleshooting to identify the root cause of the slow performance.'}
+2025-01-14 15:08:12,088 - Agent A - INFO - Escalating to Agent B
+2025-01-14 15:09:20,137 - Agent A - INFO - Processing query: hi there 
+2025-01-14 15:09:21,989 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'other', 'needs_technical_expertise': False, 'confidence': 0.5, 'keywords': [], 'reasoning': "The query 'hi there' is very vague and does not provide any specific information related to installation, configuration, bugs, performance, or security. It seems to be a general greeting rather than a technical support issue."}
+2025-01-14 15:09:21,990 - Agent A - INFO - Escalating to Agent B
+2025-01-14 15:09:44,724 - Agent A - INFO - Processing query: hi there 
+2025-01-14 15:09:45,936 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'other', 'needs_technical_expertise': False, 'confidence': 0.5, 'keywords': [], 'reasoning': "The query 'hi there' is a simple greeting and does not provide any specific technical information or request. It falls under the 'other' category and does not require technical expertise to address."}
+2025-01-14 15:09:45,938 - Agent A - INFO - Escalating to Agent B
+2025-01-14 15:12:16,416 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 15:12:37,977 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 15:12:37,977 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 15:12:48,419 - Agent A - INFO - Processing query: hi
+2025-01-14 15:12:48,419 - Agent A - INFO - Processing query: hi
+2025-01-14 15:12:48,822 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 15:12:48,822 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 15:12:48,822 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 15:12:53,499 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'other', 'needs_technical_expertise': False, 'confidence': 0.5, 'keywords': [], 'reasoning': "The query 'hi' is very vague and does not provide any specific information related to installation, configuration, bugs, performance, or security issues. It seems to be a general greeting or placeholder message. As a result, the complexity is low, and it falls under the 'other' category. No technical expertise is required to address this query."}
+2025-01-14 15:12:53,499 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'other', 'needs_technical_expertise': False, 'confidence': 0.5, 'keywords': [], 'reasoning': "The query 'hi' is very vague and does not provide any specific information related to installation, configuration, bugs, performance, or security issues. It seems to be a general greeting or placeholder message. As a result, the complexity is low, and it falls under the 'other' category. No technical expertise is required to address this query."}
+2025-01-14 15:12:53,499 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'other', 'needs_technical_expertise': False, 'confidence': 0.5, 'keywords': [], 'reasoning': "The query 'hi' is very vague and does not provide any specific information related to installation, configuration, bugs, performance, or security issues. It seems to be a general greeting or placeholder message. As a result, the complexity is low, and it falls under the 'other' category. No technical expertise is required to address this query."}
+2025-01-14 15:12:53,502 - Agent A - INFO - Escalating to Agent B
+2025-01-14 15:12:53,502 - Agent A - INFO - Escalating to Agent B
+2025-01-14 15:12:53,502 - Agent A - INFO - Escalating to Agent B
+2025-01-14 15:18:46,913 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 15:18:54,854 - Agent A - INFO - Processing query: hi there
+2025-01-14 15:18:56,273 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'other', 'needs_technical_expertise': False, 'confidence': 0.5, 'keywords': [], 'reasoning': "The query 'hi there' is very vague and does not provide any specific information related to installation, configuration, bugs, performance, or security issues. It seems to be a general greeting or introductory message rather than a technical support request."}
+2025-01-14 15:18:56,274 - Agent A - INFO - Escalating to Agent B
+2025-01-14 15:19:12,538 - Agent A - INFO - Processing query: I'm getting an error message when I try to save my work in MyApp?
+2025-01-14 15:19:13,833 - Agent A - INFO - Query analysis: {'complexity': 'medium', 'category': 'bug', 'needs_technical_expertise': True, 'confidence': 0.8, 'keywords': ['error message', 'save', 'MyApp'], 'reasoning': 'The error message indicates a bug in the application related to saving functionality. Technical expertise may be required to troubleshoot and resolve the issue.'}
+2025-01-14 15:19:13,833 - Agent A - INFO - Escalating to Agent B
+2025-01-14 15:24:42,885 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 15:24:50,042 - Agent A - INFO - Processing query: hi there 
+2025-01-14 15:24:51,646 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'other', 'needs_technical_expertise': False, 'confidence': 0.5, 'keywords': ['hi', 'there'], 'reasoning': "The query 'hi there' does not provide specific information related to installation, configuration, bug, performance, or security issues. It seems to be a general greeting or introductory message, hence categorized as 'other' with low complexity and no need for technical expertise."}
+2025-01-14 15:24:51,647 - Agent A - INFO - Escalating to Agent B
+2025-01-14 15:24:59,480 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 15:24:59,480 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 15:25:05,696 - Agent A - INFO - Processing query: hi there 
+2025-01-14 15:25:05,696 - Agent A - INFO - Processing query: hi there 
+2025-01-14 15:25:07,014 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'other', 'needs_technical_expertise': False, 'confidence': 0.5, 'keywords': [], 'reasoning': "The query 'hi there' is very vague and does not provide any specific information related to installation, configuration, bug, performance, or security issues. It seems to be a general greeting rather than a technical support request."}
+2025-01-14 15:25:07,014 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'other', 'needs_technical_expertise': False, 'confidence': 0.5, 'keywords': [], 'reasoning': "The query 'hi there' is very vague and does not provide any specific information related to installation, configuration, bug, performance, or security issues. It seems to be a general greeting rather than a technical support request."}
+2025-01-14 15:25:07,015 - Agent A - INFO - Escalating to Agent B
+2025-01-14 15:25:07,015 - Agent A - INFO - Escalating to Agent B
+2025-01-14 15:25:14,806 - Agent A - INFO - Processing query: I'm seeing graphical glitches when I use MyApp on my computer.
+2025-01-14 15:25:14,806 - Agent A - INFO - Processing query: I'm seeing graphical glitches when I use MyApp on my computer.
+2025-01-14 15:25:16,654 - Agent A - INFO - Query analysis: {'complexity': 'medium', 'category': 'bug', 'needs_technical_expertise': True, 'confidence': 0.8, 'keywords': ['graphical glitches', 'MyApp', 'computer'], 'reasoning': "The issue of graphical glitches indicates a bug within the application. This may require technical expertise to troubleshoot and resolve the problem. The user's description suggests that the issue is specific to the application 'MyApp' on their computer."}
+2025-01-14 15:25:16,654 - Agent A - INFO - Query analysis: {'complexity': 'medium', 'category': 'bug', 'needs_technical_expertise': True, 'confidence': 0.8, 'keywords': ['graphical glitches', 'MyApp', 'computer'], 'reasoning': "The issue of graphical glitches indicates a bug within the application. This may require technical expertise to troubleshoot and resolve the problem. The user's description suggests that the issue is specific to the application 'MyApp' on their computer."}
+2025-01-14 15:25:16,656 - Agent A - INFO - Escalating to Agent B
+2025-01-14 15:25:16,656 - Agent A - INFO - Escalating to Agent B
+2025-01-14 15:25:26,498 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 15:25:26,498 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 15:25:26,498 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 15:39:31,892 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 15:40:06,821 - Agent A - INFO - Processing query: hi there 
+2025-01-14 15:40:08,411 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'other', 'needs_technical_expertise': False, 'confidence': 0.5, 'keywords': [], 'reasoning': "The query 'hi there' is very vague and does not provide any specific information related to installation, configuration, bug, performance, or security issues. It seems to be a general greeting rather than a technical support query."}
+2025-01-14 15:40:08,412 - Agent A - INFO - Escalating to Agent B
+2025-01-14 15:40:16,940 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 15:40:16,940 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 15:43:33,953 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 15:43:40,083 - Agent A - INFO - Processing query: hi there 
+2025-01-14 15:43:41,425 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'other', 'needs_technical_expertise': False, 'confidence': 0.5, 'keywords': [], 'reasoning': "The query 'hi there' is very vague and does not provide any specific information related to installation, configuration, bug, performance, or security issues. It seems to be a general greeting rather than a technical support request."}
+2025-01-14 15:43:41,425 - Agent A - INFO - Escalating to Agent B
+2025-01-14 15:43:49,185 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 15:43:49,185 - Agent A - INFO - Initialized Agent A with model gpt-3.5-turbo
+2025-01-14 15:43:56,102 - Agent A - INFO - Processing query: hi 
+2025-01-14 15:43:56,102 - Agent A - INFO - Processing query: hi 
+2025-01-14 15:43:57,944 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'other', 'needs_technical_expertise': False, 'confidence': 0.5, 'keywords': [], 'reasoning': "The query 'hi' is very vague and does not provide any specific information regarding an issue or request. It seems to be a simple greeting or a placeholder message. As a result, it does not require technical expertise and falls under the 'other' category. The confidence level is low as there is not enough context to determine the nature of the query."}
+2025-01-14 15:43:57,944 - Agent A - INFO - Query analysis: {'complexity': 'low', 'category': 'other', 'needs_technical_expertise': False, 'confidence': 0.5, 'keywords': [], 'reasoning': "The query 'hi' is very vague and does not provide any specific information regarding an issue or request. It seems to be a simple greeting or a placeholder message. As a result, it does not require technical expertise and falls under the 'other' category. The confidence level is low as there is not enough context to determine the nature of the query."}
+2025-01-14 15:43:57,946 - Agent A - INFO - Escalating to Agent B
+2025-01-14 15:43:57,946 - Agent A - INFO - Escalating to Agent B
+2025-01-14 15:44:06,476 - Agent A - INFO - Processing query: I'm unable to connect to the internet while using MyApp?
+2025-01-14 15:44:06,476 - Agent A - INFO - Processing query: I'm unable to connect to the internet while using MyApp?
+2025-01-14 15:44:07,816 - Agent A - INFO - Query analysis: {'complexity': 'medium', 'category': 'configuration', 'needs_technical_expertise': True, 'confidence': 0.8, 'keywords': ['internet connection', 'MyApp', 'network settings'], 'reasoning': 'The issue seems to be related to the configuration settings of the application MyApp that is preventing internet connectivity. It may require technical expertise to troubleshoot and resolve the issue.'}
+2025-01-14 15:44:07,816 - Agent A - INFO - Query analysis: {'complexity': 'medium', 'category': 'configuration', 'needs_technical_expertise': True, 'confidence': 0.8, 'keywords': ['internet connection', 'MyApp', 'network settings'], 'reasoning': 'The issue seems to be related to the configuration settings of the application MyApp that is preventing internet connectivity. It may require technical expertise to troubleshoot and resolve the issue.'}
+2025-01-14 15:44:07,818 - Agent A - INFO - Escalating to Agent B
+2025-01-14 15:44:07,818 - Agent A - INFO - Escalating to Agent B

@@ -1,0 +1,86 @@
+{
+    "EN": [
+        {
+            "question": "How does MyApp handle user authentication?",
+            "answer": "MyApp uses OAuth 2.0 for user authentication, ensuring secure access and control."
+        },
+        {
+            "question": "What features does MyApp offer for collaborative work?",
+            "answer": "MyApp offers real-time collaboration tools, allowing multiple users to work on the same project simultaneously."
+        },
+        {
+            "question": "Can I customize the dashboard in MyApp?",
+            "answer": "Yes, you can customize the dashboard by adding or removing widgets and rearranging them as per your needs."
+        },
+        {
+            "question": "How does MyApp integrate with third-party services?",
+            "answer": "MyApp integrates with various third-party services through APIs, allowing seamless data exchange and workflow automation."
+        },
+        {
+            "question": "Does MyApp provide reporting features?",
+            "answer": "Yes, MyApp includes advanced reporting features that let you generate and export reports in various formats."
+        },
+        {
+            "question": "Can I schedule tasks in MyApp?",
+            "answer": "Yes, MyApp allows you to schedule tasks with reminders to help you stay organized and on track."
+        },
+        {
+            "question": "How is data security handled in MyApp?",
+            "answer": "MyApp implements encryption and regular security audits to protect user data and ensure compliance with data protection regulations."
+        },
+        {
+            "question": "Are there any mobile features in MyApp?",
+            "answer": "Yes, MyApp has a mobile app that provides access to core features, allowing you to work on the go."
+        },
+        {
+            "question": "Is there a built-in chat feature in MyApp?",
+            "answer": "Yes, MyApp includes a built-in chat feature that facilitates communication among team members."
+        },
+        {
+            "question": "Can I import data from other applications into MyApp?",
+            "answer": "Yes, MyApp supports data import from various applications through CSV and other file formats."
+        }
+    ],
+    "FR": [
+        {
+            "question": "Comment MyApp gère-t-il l'authentification des utilisateurs?",
+            "answer": "MyApp utilise OAuth 2.0 pour l'authentification des utilisateurs, garantissant un accès sécurisé et un contrôle."
+        },
+        {
+            "question": "Quelles fonctionnalités MyApp offre-t-il pour le travail collaboratif?",
+            "answer": "MyApp propose des outils de collaboration en temps réel, permettant à plusieurs utilisateurs de travailler simultanément sur le même projet."
+        },
+        {
+            "question": "Puis-je personnaliser le tableau de bord dans MyApp?",
+            "answer": "Oui, vous pouvez personnaliser le tableau de bord en ajoutant ou en supprimant des widgets et en les réorganisant selon vos besoins."
+        },
+        {
+            "question": "Comment MyApp s'intègre-t-il aux services tiers?",
+            "answer": "MyApp s'intègre à divers services tiers via des API, permettant un échange de données fluide et une automatisation des flux de travail."
+        },
+        {
+            "question": "MyApp propose-t-il des fonctionnalités de reporting?",
+            "answer": "Oui, MyApp comprend des fonctionnalités avancées de reporting qui vous permettent de générer et d'exporter des rapports dans divers formats."
+        },
+        {
+            "question": "Puis-je programmer des tâches dans MyApp?",
+            "answer": "Oui, MyApp vous permet de programmer des tâches avec des rappels pour vous aider à rester organisé et sur la bonne voie."
+        },
+        {
+            "question": "Comment la sécurité des données est-elle gérée dans MyApp?",
+            "answer": "MyApp met en œuvre le chiffrement et des audits de sécurité réguliers pour protéger les données des utilisateurs et garantir la conformité avec les régulations de protection des données."
+        },
+        {
+            "question": "Y a-t-il des fonctionnalités mobiles dans MyApp?",
+            "answer": "Oui, MyApp propose une application mobile qui donne accès aux fonctionnalités principales, vous permettant de travailler en déplacement."
+        },
+        {
+            "question": "Y a-t-il une fonctionnalité de chat intégrée dans MyApp?",
+            "answer": "Oui, MyApp inclut une fonctionnalité de chat intégrée qui facilite la communication entre les membres de l'équipe."
+        },
+        {
+            "question": "Puis-je importer des données d'autres applications dans MyApp?",
+            "answer": "Oui, MyApp prend en charge l'importation de données à partir de diverses applications via des formats de fichiers tels que CSV."
+        }
+    ]
+}

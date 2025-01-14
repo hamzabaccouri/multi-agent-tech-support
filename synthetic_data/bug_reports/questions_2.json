@@ -1,0 +1,86 @@
+{
+    "EN": [
+        {
+            "question": "There's a bug with the login feature in MyApp; can you help?",
+            "answer": "Yes, please try clearing your browser cache and cookies, then attempt to log in again."
+        },
+        {
+            "question": "MyApp crashes when I try to upload files; what should I do?",
+            "answer": "Make sure that the file size doesn't exceed the limit and try using a different file format."
+        },
+        {
+            "question": "I see an error message when I try to save my changes in MyApp; any suggestions?",
+            "answer": "Check if you have a stable internet connection and ensure you have the latest version of MyApp installed."
+        },
+        {
+            "question": "The notifications feature in MyApp isn't working; how can I fix it?",
+            "answer": "Try checking your notification settings and ensure that the permissions are enabled."
+        },
+        {
+            "question": "I'm experiencing a delay in data loading on MyApp; what can I do?",
+            "answer": "This might be related to server issues; please check our status page, or try refreshing the page."
+        },
+        {
+            "question": "MyApp doesn't display images correctly; what might be wrong?",
+            "answer": "Ensure that your browser is updated and that no extensions are blocking images from loading."
+        },
+        {
+            "question": "There's a bug that causes the application to freeze during syncing; any advice?",
+            "answer": "Please try restarting the application and check if the issue persists after that."
+        },
+        {
+            "question": "The search function in MyApp returns no results; how can I troubleshoot this?",
+            "answer": "Double-check the search terms and ensure you are searching within the correct section of the app."
+        },
+        {
+            "question": "I get a 404 error when trying to access a specific page in MyApp; what should I do?",
+            "answer": "This could be due to a broken link; please report this to our support team so we can investigate."
+        },
+        {
+            "question": "MyApp is not responding on my mobile device; do you have any solutions?",
+            "answer": "Try force closing the app and restarting your device; ensure you have enough memory available."
+        }
+    ],
+    "FR": [
+        {
+            "question": "Il y a un bug avec la fonctionnalité de connexion dans MyApp ; pouvez-vous aider ?",
+            "answer": "Oui, essayez de vider le cache de votre navigateur et les cookies, puis essayez de vous reconnecter."
+        },
+        {
+            "question": "MyApp plante lorsque j'essaie de télécharger des fichiers ; que dois-je faire ?",
+            "answer": "Assurez-vous que la taille du fichier ne dépasse pas la limite et essayez d'utiliser un autre format de fichier."
+        },
+        {
+            "question": "Je vois un message d'erreur lorsque j'essaie d'enregistrer mes modifications dans MyApp ; avez-vous des suggestions ?",
+            "answer": "Vérifiez si vous avez une connexion Internet stable et assurez-vous que vous avez installé la dernière version de MyApp."
+        },
+        {
+            "question": "La fonctionnalité de notifications dans MyApp ne fonctionne pas ; comment puis-je résoudre ce problème ?",
+            "answer": "Essayez de vérifier vos paramètres de notifications et assurez-vous que les autorisations sont activées."
+        },
+        {
+            "question": "Je ressens un retard dans le chargement des données sur MyApp ; que puis-je faire ?",
+            "answer": "Cela peut être lié à des problèmes de serveur ; veuillez vérifier notre page de statut ou essayer de recharger la page."
+        },
+        {
+            "question": "MyApp n'affiche pas correctement les images ; que pourrait-il se passer ?",
+            "answer": "Assurez-vous que votre navigateur est à jour et qu'aucune extension ne bloque le chargement des images."
+        },
+        {
+            "question": "Il y a un bug qui fait que l'application se fige lors de la synchronisation ; avez-vous des conseils ?",
+            "answer": "Veuillez essayer de redémarrer l'application et vérifier si le problème persiste après cela."
+        },
+        {
+            "question": "La fonction de recherche dans MyApp ne retourne aucun résultat ; comment puis-je résoudre cela ?",
+            "answer": "Vérifiez les termes de recherche et assurez-vous que vous cherchez dans la bonne section de l'application."
+        },
+        {
+            "question": "Je reçois une erreur 404 lorsque j'essaie d'accéder à une page spécifique dans MyApp ; que dois-je faire ?",
+            "answer": "Cela pourrait être dû à un lien brisé ; veuillez le signaler à notre équipe d'assistance afin que nous puissions enquêter."
+        },
+        {
+            "question": "MyApp ne répond pas sur mon appareil mobile ; avez-vous des solutions ?",
+            "answer": "Essayez de forcer la fermeture de l'application et de redémarrer votre appareil ; assurez-vous d'avoir suffisamment de mémoire disponible."
+        }
+    ]
+}

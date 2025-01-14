@@ -1,0 +1,719 @@
+2025-01-14 11:51:27,456 - AgentB - INFO - Initializing Agent B
+2025-01-14 11:51:28,476 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 11:51:28,477 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 11:51:28,480 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 11:51:28,494 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 11:51:28,506 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 11:51:28,516 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 11:51:28,527 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 11:51:28,538 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 11:51:28,548 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 11:51:28,559 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 11:51:28,572 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 11:51:28,583 - AgentB - INFO - Processed 180 documents
+2025-01-14 11:51:32,332 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 11:58:54,657 - AgentB - INFO - Initializing Agent B
+2025-01-14 11:58:55,658 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 11:58:55,658 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 11:58:55,666 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 11:58:55,666 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 11:58:55,666 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 11:58:55,666 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 11:58:55,666 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 11:58:55,671 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 11:58:55,672 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 11:58:55,673 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 11:58:55,674 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 11:58:55,675 - AgentB - INFO - Processed 180 documents
+2025-01-14 11:58:55,676 - AgentB - INFO - Removing existing vector store
+2025-01-14 11:58:59,199 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 11:58:59,199 - AgentB - INFO - Processing query: How do I install MyApp on Windows?
+2025-01-14 11:58:59,578 - AgentB - INFO - Retrieved 5 relevant documents
+2025-01-14 11:59:00,150 - AgentB - ERROR - Error generating response: Error code: 404 - {'error': {'message': 'The model `gpt-4-mini` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-01-14 11:59:05,029 - AgentB - INFO - Processing query: I'm getting a dependency conflict error while installing MyApp on Windows 11
+2025-01-14 11:59:05,504 - AgentB - INFO - Retrieved 5 relevant documents
+2025-01-14 11:59:06,815 - AgentB - ERROR - Error generating response: Error code: 404 - {'error': {'message': 'The model `gpt-4-mini` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-01-14 12:03:14,846 - AgentB - INFO - Initializing Agent B
+2025-01-14 12:04:29,077 - AgentB - INFO - Initializing Agent B
+2025-01-14 12:04:30,136 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 12:04:30,136 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 12:04:30,137 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 12:04:30,139 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 12:04:30,140 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 12:04:30,141 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 12:04:30,142 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 12:04:30,143 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 12:04:30,144 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 12:04:30,144 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 12:04:30,145 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 12:04:30,146 - AgentB - INFO - Processed 180 documents
+2025-01-14 12:04:30,146 - AgentB - INFO - Removing existing vector store
+2025-01-14 12:04:34,178 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 12:10:59,133 - AgentB - INFO - Initializing Agent B
+2025-01-14 12:11:00,806 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 12:11:00,806 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 12:11:00,807 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 12:11:00,808 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 12:11:00,809 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 12:11:00,810 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 12:11:00,811 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 12:11:00,812 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 12:11:00,814 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 12:11:00,815 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 12:11:00,817 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 12:11:00,818 - AgentB - INFO - Processed 180 documents
+2025-01-14 12:11:00,819 - AgentB - INFO - Removing existing vector store
+2025-01-14 12:11:03,627 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 12:11:32,635 - AgentB - INFO - Initializing Agent B
+2025-01-14 12:11:34,404 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 12:11:34,405 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 12:11:34,406 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 12:11:34,408 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 12:11:34,409 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 12:11:34,410 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 12:11:34,410 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 12:11:34,411 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 12:11:34,412 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 12:11:34,413 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 12:11:34,413 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 12:11:34,414 - AgentB - INFO - Processed 180 documents
+2025-01-14 12:11:34,414 - AgentB - INFO - Removing existing vector store
+2025-01-14 12:11:37,518 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 12:14:15,127 - AgentB - INFO - Initializing Agent B
+2025-01-14 12:14:16,939 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 12:14:16,940 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 12:14:16,940 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 12:14:16,941 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 12:14:16,942 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 12:14:16,943 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 12:14:16,944 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 12:14:16,945 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 12:14:16,945 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 12:14:16,946 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 12:14:16,947 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 12:14:16,948 - AgentB - INFO - Processed 180 documents
+2025-01-14 12:14:16,949 - AgentB - INFO - Removing existing vector store
+2025-01-14 12:14:21,235 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 12:14:21,236 - AgentB - INFO - Processing query: How do I install MyApp on Windows?
+2025-01-14 12:14:21,750 - AgentB - INFO - Retrieved 5 relevant documents
+2025-01-14 12:14:22,520 - AgentB - ERROR - Error generating response: Error code: 404 - {'error': {'message': 'The model `gpt-4-mini` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-01-14 12:15:30,805 - AgentB - INFO - Initializing Agent B
+2025-01-14 12:15:32,602 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 12:15:32,605 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 12:15:32,606 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 12:15:32,606 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 12:15:32,607 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 12:15:32,608 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 12:15:32,609 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 12:15:32,609 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 12:15:32,610 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 12:15:32,610 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 12:15:32,611 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 12:15:32,613 - AgentB - INFO - Processed 180 documents
+2025-01-14 12:15:32,614 - AgentB - INFO - Removing existing vector store
+2025-01-14 12:15:35,525 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 12:15:35,527 - AgentB - INFO - Processing query: How do I install MyApp on Windows?
+2025-01-14 12:15:35,983 - AgentB - INFO - Retrieved 5 relevant documents
+2025-01-14 12:15:36,539 - AgentB - ERROR - Error generating response: Error code: 404 - {'error': {'message': 'The model `gpt-4-mini` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-01-14 12:22:20,664 - AgentB - INFO - Initializing Agent B
+2025-01-14 12:22:22,455 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 12:22:22,456 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 12:22:22,457 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 12:22:22,459 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 12:22:22,461 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 12:22:22,474 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 12:22:22,476 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 12:22:22,478 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 12:22:22,480 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 12:22:22,481 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 12:22:22,484 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 12:22:22,485 - AgentB - INFO - Processed 180 documents
+2025-01-14 12:22:22,486 - AgentB - INFO - Removing existing vector store
+2025-01-14 12:22:25,332 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 12:22:25,333 - AgentB - INFO - Processing query: How do I install MyApp on Windows?
+2025-01-14 12:22:26,324 - AgentB - INFO - Retrieved 5 relevant documents
+2025-01-14 12:22:27,656 - AgentB - INFO - Generated response with confidence: 0.5
+2025-01-14 12:31:20,723 - AgentB - INFO - Initializing Agent B
+2025-01-14 12:31:22,073 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 12:31:22,074 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 12:31:22,075 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 12:31:22,076 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 12:31:22,077 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 12:31:22,077 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 12:31:22,078 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 12:31:22,079 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 12:31:22,080 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 12:31:22,082 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 12:31:22,083 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 12:31:22,085 - AgentB - INFO - Processed 180 documents
+2025-01-14 12:31:22,085 - AgentB - INFO - Removing existing vector store
+2025-01-14 12:31:25,923 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 12:31:35,810 - AgentB - INFO - Processing query: I'm experiencing frequent crashes and high CPU usage when running MyApp on Windows 11. The error log shows dependency conflicts, and it happens especially when I try to process large files. I've already tried restarting the application but the problem persists. Can you help me diagnose and fix this?
+2025-01-14 12:31:36,684 - AgentB - INFO - Retrieved 5 relevant documents
+2025-01-14 12:31:37,503 - AgentB - ERROR - Error generating response: Error code: 404 - {'error': {'message': 'The model `gpt-4-mini` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-01-14 12:32:02,068 - AgentB - INFO - Initializing Agent B
+2025-01-14 12:32:03,309 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 12:32:03,310 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 12:32:03,311 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 12:32:03,312 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 12:32:03,312 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 12:32:03,313 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 12:32:03,314 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 12:32:03,315 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 12:32:03,317 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 12:32:03,318 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 12:32:03,319 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 12:32:03,321 - AgentB - INFO - Processed 180 documents
+2025-01-14 12:32:03,322 - AgentB - INFO - Removing existing vector store
+2025-01-14 12:32:06,774 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 12:32:12,131 - AgentB - INFO - Processing query: I'm experiencing frequent crashes and high CPU usage when running MyApp on Windows 11. The error log shows dependency conflicts, and it happens especially when I try to process large files. I've already tried restarting the application but the problem persists. Can you help me diagnose and fix this?
+2025-01-14 12:32:12,548 - AgentB - INFO - Retrieved 5 relevant documents
+2025-01-14 12:32:18,812 - AgentB - INFO - Generated response with confidence: 0.5
+2025-01-14 13:16:28,048 - AgentB - INFO - Initializing Agent B
+2025-01-14 13:16:29,158 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 13:16:29,159 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 13:16:29,172 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 13:16:29,174 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 13:16:29,176 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 13:16:29,188 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 13:16:29,190 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 13:16:29,191 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 13:16:29,193 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 13:16:29,196 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 13:16:29,198 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 13:16:29,209 - AgentB - INFO - Processed 180 documents
+2025-01-14 13:16:29,210 - AgentB - INFO - Removing existing vector store
+2025-01-14 13:16:32,328 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 13:16:34,667 - AgentB - INFO - Processing query: hello there 
+2025-01-14 13:16:35,098 - AgentB - INFO - Retrieved 5 relevant documents
+2025-01-14 13:16:36,234 - AgentB - ERROR - Error generating response: Error code: 404 - {'error': {'message': 'The model `gpt-4-mini` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-01-14 13:18:46,276 - AgentB - INFO - Initializing Agent B
+2025-01-14 13:18:47,371 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 13:18:47,372 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 13:18:47,372 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 13:18:47,373 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 13:18:47,375 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 13:18:47,375 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 13:18:47,376 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 13:18:47,378 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 13:18:47,380 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 13:18:47,381 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 13:18:47,382 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 13:18:47,382 - AgentB - INFO - Processed 180 documents
+2025-01-14 13:18:47,383 - AgentB - INFO - Removing existing vector store
+2025-01-14 13:18:49,919 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 13:18:51,902 - AgentB - INFO - Processing query: hello there 
+2025-01-14 13:18:52,355 - AgentB - INFO - Retrieved 5 relevant documents
+2025-01-14 13:18:53,510 - AgentB - INFO - Generated response with confidence: 0.5
+2025-01-14 13:20:59,448 - AgentB - INFO - Initializing Agent B
+2025-01-14 13:21:00,842 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 13:21:00,842 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 13:21:00,844 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 13:21:00,845 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 13:21:00,846 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 13:21:00,847 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 13:21:00,848 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 13:21:00,849 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 13:21:00,850 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 13:21:00,851 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 13:21:00,852 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 13:21:00,853 - AgentB - INFO - Processed 180 documents
+2025-01-14 13:21:00,854 - AgentB - INFO - Removing existing vector store
+2025-01-14 13:21:03,794 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 13:23:14,865 - AgentB - INFO - Initializing Agent B
+2025-01-14 13:23:16,497 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 13:23:16,498 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 13:23:16,499 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 13:23:16,499 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 13:23:16,500 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 13:23:16,501 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 13:23:16,502 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 13:23:16,503 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 13:23:16,505 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 13:23:16,508 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 13:23:16,509 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 13:23:16,509 - AgentB - INFO - Processed 180 documents
+2025-01-14 13:23:16,511 - AgentB - INFO - Removing existing vector store
+2025-01-14 13:23:21,333 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 13:23:32,135 - AgentB - INFO - Processing query: hello there 
+2025-01-14 13:23:32,663 - AgentB - INFO - Retrieved 5 relevant documents
+2025-01-14 13:23:34,365 - AgentB - INFO - Generated response with confidence: 0.5
+2025-01-14 13:25:24,195 - AgentB - INFO - Processing query: I'm experiencing frequent crashes and high CPU usage when running MyApp on Windows 11. The error log shows dependency conflicts, and it happens especially when I try to process large files. I've already tried restarting the application but the problem persists. Can you help me diagnose and fix this?
+2025-01-14 13:25:24,910 - AgentB - INFO - Retrieved 5 relevant documents
+2025-01-14 13:25:32,497 - AgentB - INFO - Generated response with confidence: 0.5
+2025-01-14 13:49:56,201 - AgentB - INFO - Initializing Agent B
+2025-01-14 13:49:58,075 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 13:49:58,076 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 13:49:58,077 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 13:49:58,078 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 13:49:58,079 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 13:49:58,079 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 13:49:58,080 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 13:49:58,081 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 13:49:58,082 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 13:49:58,083 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 13:49:58,083 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 13:49:58,084 - AgentB - INFO - Processed 180 documents
+2025-01-14 13:49:58,084 - AgentB - INFO - Removing existing vector store
+2025-01-14 13:50:02,191 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 13:52:36,185 - AgentB - INFO - Processing query: I'm experiencing severe performance degradation in MyApp when processing multiple large CSV files simultaneously. The system shows high memory usage (around 90%), and I'm getting 'OutOfMemoryError' in the logs. I've already tried increasing the JVM heap size to 8GB but the issue persists. The CPU usage also spikes to 100% during these operations. What could be causing this and how can I optimize the application?
+2025-01-14 13:53:08,797 - AgentB - INFO - Processing query: When trying to integrate MyApp with our company's SQL Server database, I'm getting multiple dependency conflicts. The error log shows 'javax.persistence.PersistenceException' and 'org.hibernate.HibernateException'. I've checked the connection strings and database permissions, and tried updating all dependencies in the pom.xml file, but the application still fails to establish a connection. The specific version of SQL Server we're using is 2019 Enterprise. Can you help troubleshoot this integration issue?
+2025-01-14 14:26:09,546 - AgentB - INFO - Initializing Agent B
+2025-01-14 14:26:11,177 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 14:26:11,177 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 14:26:11,191 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 14:26:11,194 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 14:26:11,196 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 14:26:11,199 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 14:26:11,200 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 14:26:11,202 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 14:26:11,216 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 14:26:11,218 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 14:26:11,220 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 14:26:11,221 - AgentB - INFO - Processed 180 documents
+2025-01-14 14:26:11,222 - AgentB - INFO - Removing existing vector store
+2025-01-14 14:26:14,349 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 14:27:54,264 - AgentB - INFO - Initializing Agent B
+2025-01-14 14:27:56,609 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 14:27:56,610 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 14:27:56,610 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 14:27:56,611 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 14:27:56,619 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 14:27:56,620 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 14:27:56,621 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 14:27:56,622 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 14:27:56,622 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 14:27:56,623 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 14:27:56,624 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 14:27:56,625 - AgentB - INFO - Processed 180 documents
+2025-01-14 14:27:56,625 - AgentB - INFO - Removing existing vector store
+2025-01-14 14:28:01,720 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 14:31:28,255 - AgentB - INFO - Initializing Agent B
+2025-01-14 14:31:29,785 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 14:31:29,786 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 14:31:29,787 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 14:31:29,788 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 14:31:29,837 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 14:31:29,838 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 14:31:29,839 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 14:31:29,841 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 14:31:29,842 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 14:31:29,843 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 14:31:29,844 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 14:31:29,845 - AgentB - INFO - Processed 180 documents
+2025-01-14 14:31:29,845 - AgentB - INFO - Removing existing vector store
+2025-01-14 14:31:33,136 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 14:35:47,899 - AgentB - INFO - Initializing Agent B
+2025-01-14 14:35:49,549 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 14:35:49,549 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 14:35:49,549 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 14:35:49,549 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 14:35:49,559 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 14:35:49,561 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 14:35:49,561 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 14:35:49,562 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 14:35:49,563 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 14:35:49,564 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 14:35:49,564 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 14:35:49,567 - AgentB - INFO - Processed 180 documents
+2025-01-14 14:35:49,567 - AgentB - INFO - Removing existing vector store
+2025-01-14 14:35:54,100 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 14:36:28,811 - AgentB - INFO - Processing query: I'm experiencing freezing when I run MyApp on my mobile device.
+2025-01-14 15:00:39,331 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:00:41,371 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:00:41,373 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:00:41,373 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:00:41,374 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:00:41,375 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:00:41,376 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:00:41,377 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:00:41,378 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:00:41,380 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:00:41,382 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:00:41,382 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:00:41,384 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:00:41,385 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:00:45,170 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 15:00:56,743 - AgentB - INFO - Processing query: hi there 
+2025-01-14 15:02:06,858 - AgentB - INFO - Processing query: J'ai des problèmes avec la fonction de synchronisation de MyApp ?
+2025-01-14 15:07:30,325 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:07:33,057 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:07:33,057 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:07:33,058 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:07:33,058 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:07:33,159 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:07:33,162 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:07:33,167 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:07:33,170 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:07:33,175 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:07:33,182 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:07:33,184 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:07:33,185 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:07:33,185 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:07:38,198 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 15:08:12,088 - AgentB - INFO - Processing query: J'éprouve des performances lentes lorsque j'ouvre MyApp?
+2025-01-14 15:09:21,990 - AgentB - INFO - Processing query: hi there 
+2025-01-14 15:09:45,939 - AgentB - INFO - Processing query: hi there 
+2025-01-14 15:12:10,900 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:12:12,945 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:12:12,946 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:12:12,947 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:12:12,947 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:12:12,948 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:12:12,949 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:12:12,950 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:12:12,951 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:12:12,952 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:12:12,957 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:12:12,959 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:12:12,960 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:12:12,960 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:12:16,107 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 15:12:33,553 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:12:33,553 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:12:34,809 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:12:34,809 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:12:34,810 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:12:34,810 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:12:34,812 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:12:34,812 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:12:34,813 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:12:34,813 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:12:34,814 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:12:34,814 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:12:34,817 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:12:34,817 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:12:34,819 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:12:34,819 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:12:34,822 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:12:34,822 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:12:34,823 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:12:34,823 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:12:34,824 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:12:34,824 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:12:34,825 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:12:34,825 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:12:34,826 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:12:34,826 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:12:34,827 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:12:34,827 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:12:37,503 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 15:12:37,503 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 15:12:42,527 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:12:42,527 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:12:42,527 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:12:43,788 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:12:43,788 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:12:43,788 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:12:43,790 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:12:43,790 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:12:43,790 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:12:43,791 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:12:43,791 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:12:43,791 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:12:43,792 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:12:43,792 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:12:43,792 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:12:43,793 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:12:43,793 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:12:43,793 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:12:43,794 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:12:43,794 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:12:43,794 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:12:43,803 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:12:43,803 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:12:43,803 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:12:43,804 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:12:43,804 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:12:43,804 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:12:43,805 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:12:43,805 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:12:43,805 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:12:43,806 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:12:43,806 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:12:43,806 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:12:43,807 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:12:43,807 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:12:43,807 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:12:43,808 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:12:43,808 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:12:43,808 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:12:43,809 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:12:43,809 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:12:43,809 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:12:45,074 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:12:45,074 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:12:45,074 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:12:45,074 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:12:46,298 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:12:46,298 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:12:46,298 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:12:46,298 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:12:46,300 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:12:46,300 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:12:46,300 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:12:46,300 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:12:46,302 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:12:46,302 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:12:46,302 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:12:46,302 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:12:46,304 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:12:46,304 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:12:46,304 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:12:46,304 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:12:46,305 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:12:46,305 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:12:46,305 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:12:46,305 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:12:46,308 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:12:46,308 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:12:46,308 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:12:46,308 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:12:46,310 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:12:46,310 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:12:46,310 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:12:46,310 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:12:46,313 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:12:46,313 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:12:46,313 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:12:46,313 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:12:46,316 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:12:46,316 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:12:46,316 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:12:46,316 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:12:46,318 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:12:46,318 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:12:46,318 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:12:46,318 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:12:46,319 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:12:46,319 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:12:46,319 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:12:46,319 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:12:46,321 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:12:46,321 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:12:46,321 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:12:46,321 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:12:46,323 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:12:46,323 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:12:46,323 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:12:46,323 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:12:48,453 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 15:12:48,453 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 15:12:48,453 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 15:12:48,453 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 15:12:53,504 - AgentB - INFO - Processing query: hi
+2025-01-14 15:12:53,504 - AgentB - INFO - Processing query: hi
+2025-01-14 15:12:53,504 - AgentB - INFO - Processing query: hi
+2025-01-14 15:12:53,504 - AgentB - INFO - Processing query: hi
+2025-01-14 15:12:54,234 - AgentB - ERROR - Error generating response: Collection 3667c055-6faf-49ad-9e95-056528bf7b59 does not exist.
+2025-01-14 15:12:54,234 - AgentB - ERROR - Error generating response: Collection 3667c055-6faf-49ad-9e95-056528bf7b59 does not exist.
+2025-01-14 15:12:54,234 - AgentB - ERROR - Error generating response: Collection 3667c055-6faf-49ad-9e95-056528bf7b59 does not exist.
+2025-01-14 15:12:54,234 - AgentB - ERROR - Error generating response: Collection 3667c055-6faf-49ad-9e95-056528bf7b59 does not exist.
+2025-01-14 15:18:40,067 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:18:41,942 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:18:41,943 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:18:41,944 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:18:41,945 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:18:41,947 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:18:41,948 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:18:42,040 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:18:42,042 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:18:42,043 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:18:42,044 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:18:42,045 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:18:42,046 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:18:42,047 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:18:46,610 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 15:18:56,275 - AgentB - INFO - Processing query: hi there
+2025-01-14 15:19:13,833 - AgentB - INFO - Processing query: I'm getting an error message when I try to save my work in MyApp?
+2025-01-14 15:24:37,547 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:24:39,406 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:24:39,407 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:24:39,407 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:24:39,408 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:24:39,414 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:24:39,416 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:24:39,417 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:24:39,485 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:24:39,486 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:24:39,487 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:24:39,487 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:24:39,488 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:24:39,488 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:24:42,558 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 15:24:51,648 - AgentB - INFO - Processing query: hi there 
+2025-01-14 15:24:56,102 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:24:56,102 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:24:57,388 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:24:57,388 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:24:57,393 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:24:57,393 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:24:57,395 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:24:57,395 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:24:57,398 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:24:57,398 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:24:57,399 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:24:57,399 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:24:57,401 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:24:57,401 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:24:57,401 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:24:57,401 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:24:57,402 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:24:57,402 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:24:57,403 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:24:57,403 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:24:57,405 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:24:57,405 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:24:57,411 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:24:57,411 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:24:57,412 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:24:57,412 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:24:57,413 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:24:57,413 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:24:59,082 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 15:24:59,082 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 15:25:07,016 - AgentB - INFO - Processing query: hi there 
+2025-01-14 15:25:07,016 - AgentB - INFO - Processing query: hi there 
+2025-01-14 15:25:16,656 - AgentB - INFO - Processing query: I'm seeing graphical glitches when I use MyApp on my computer.
+2025-01-14 15:25:16,656 - AgentB - INFO - Processing query: I'm seeing graphical glitches when I use MyApp on my computer.
+2025-01-14 15:25:22,641 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:25:22,641 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:25:22,641 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:25:23,965 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:25:23,965 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:25:23,965 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:25:23,969 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:25:23,969 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:25:23,969 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:25:23,972 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:25:23,972 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:25:23,972 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:25:23,974 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:25:23,974 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:25:23,974 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:25:23,976 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:25:23,976 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:25:23,976 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:25:23,978 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:25:23,978 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:25:23,978 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:25:23,979 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:25:23,979 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:25:23,979 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:25:23,981 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:25:23,981 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:25:23,981 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:25:23,989 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:25:23,989 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:25:23,989 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:25:23,993 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:25:23,993 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:25:23,993 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:25:23,994 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:25:23,994 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:25:23,994 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:25:23,996 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:25:23,996 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:25:23,996 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:25:23,997 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:25:23,997 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:25:23,997 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:25:26,215 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 15:25:26,215 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 15:25:26,215 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 15:39:26,744 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:39:28,419 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:39:28,420 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:39:28,421 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:39:28,423 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:39:28,425 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:39:28,492 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:39:28,493 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:39:28,494 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:39:28,496 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:39:28,499 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:39:28,500 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:39:28,502 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:39:28,502 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:39:31,594 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 15:40:08,413 - AgentB - INFO - Processing query: hi there 
+2025-01-14 15:40:12,361 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:40:12,361 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:40:13,690 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:40:13,690 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:40:13,691 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:40:13,691 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:40:13,692 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:40:13,692 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:40:13,693 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:40:13,693 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:40:13,695 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:40:13,695 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:40:13,696 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:40:13,696 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:40:13,697 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:40:13,697 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:40:13,698 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:40:13,698 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:40:13,699 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:40:13,699 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:40:13,700 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:40:13,700 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:40:13,704 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:40:13,704 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:40:13,707 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:40:13,707 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:40:13,708 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:40:13,708 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:40:16,673 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 15:40:16,673 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 15:43:28,842 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:43:30,589 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:43:30,590 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:43:30,592 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:43:30,593 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:43:30,594 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:43:30,595 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:43:30,596 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:43:30,597 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:43:30,602 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:43:30,604 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:43:30,604 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:43:30,605 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:43:30,606 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:43:33,641 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 15:43:41,426 - AgentB - INFO - Processing query: hi there 
+2025-01-14 15:43:45,009 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:43:45,009 - AgentB - INFO - Initializing Agent B
+2025-01-14 15:43:46,322 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:43:46,322 - AgentB - INFO - Initializing knowledge base from: synthetic_data
+2025-01-14 15:43:46,322 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:43:46,322 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_1.json
+2025-01-14 15:43:46,323 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:43:46,323 - AgentB - INFO - Processing file: synthetic_data\bug_reports\questions_2.json
+2025-01-14 15:43:46,325 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:43:46,325 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_1.json
+2025-01-14 15:43:46,326 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:43:46,326 - AgentB - INFO - Processing file: synthetic_data\configuration\questions_2.json
+2025-01-14 15:43:46,327 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:43:46,327 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_1.json
+2025-01-14 15:43:46,331 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:43:46,331 - AgentB - INFO - Processing file: synthetic_data\feature_inquiries\questions_2.json
+2025-01-14 15:43:46,337 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:43:46,337 - AgentB - INFO - Processing file: synthetic_data\installation\questions_1.json
+2025-01-14 15:43:46,338 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:43:46,338 - AgentB - INFO - Processing file: synthetic_data\installation\questions_2.json
+2025-01-14 15:43:46,339 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:43:46,339 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_1.json
+2025-01-14 15:43:46,340 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:43:46,340 - AgentB - INFO - Processing file: synthetic_data\performance_issues\questions_2.json
+2025-01-14 15:43:46,341 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:43:46,341 - AgentB - INFO - Processed 180 documents
+2025-01-14 15:43:46,342 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:43:46,342 - AgentB - INFO - Removing existing vector store
+2025-01-14 15:43:48,777 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 15:43:48,777 - AgentB - INFO - Knowledge base initialized successfully
+2025-01-14 15:43:57,947 - AgentB - INFO - Processing query: hi 
+2025-01-14 15:43:57,947 - AgentB - INFO - Processing query: hi 
+2025-01-14 15:44:07,819 - AgentB - INFO - Processing query: I'm unable to connect to the internet while using MyApp?
+2025-01-14 15:44:07,819 - AgentB - INFO - Processing query: I'm unable to connect to the internet while using MyApp?

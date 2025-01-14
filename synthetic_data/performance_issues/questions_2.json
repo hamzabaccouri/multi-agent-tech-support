@@ -1,0 +1,86 @@
+{
+    "EN": [
+        {
+            "question": "What can I do to speed up MyApp when it starts?",
+            "answer": "You can disable unnecessary startup programs and clear the cache to improve the startup speed of MyApp."
+        },
+        {
+            "question": "How can I reduce lag in MyApp during data processing?",
+            "answer": "Try optimizing the data processing tasks, such as breaking them into smaller batches or using more efficient algorithms."
+        },
+        {
+            "question": "What are the best practices to enhance MyApp's performance when handling large files?",
+            "answer": "Ensure that your system has sufficient memory and consider using file compression techniques to handle large files more efficiently."
+        },
+        {
+            "question": "How can I improve MyApp's performance when running on low-spec devices?",
+            "answer": "You might want to reduce the graphical settings or disable non-essential features to improve performance on low-spec devices."
+        },
+        {
+            "question": "What steps can I take to optimize MyApp when running multiple instances?",
+            "answer": "Limit the resources each instance can use and ensure there's enough system RAM to manage multiple instances efficiently."
+        },
+        {
+            "question": "How do I troubleshoot MyApp if it is running slowly?",
+            "answer": "You can check for background processes consuming resources, update MyApp, or reinstall it to resolve performance issues."
+        },
+        {
+            "question": "What settings can I adjust in MyApp to maximize its performance in gaming?",
+            "answer": "You can adjust the graphics settings to lower levels, ensure your drivers are up-to-date, and close other applications running in the background."
+        },
+        {
+            "question": "How can I ensure that MyApp stays responsive under heavy load?",
+            "answer": "Implement load balancing and resource allocation strategies to help keep MyApp responsive when it is under heavy use."
+        },
+        {
+            "question": "What can I do if MyApp becomes unresponsive during heavy data uploads?",
+            "answer": "Consider splitting the uploads into smaller chunks and increasing your internet bandwidth to improve responsiveness."
+        },
+        {
+            "question": "How can I decrease the loading time of MyApp?",
+            "answer": "You can optimize MyApp by minimizing the number of plugins and dependencies it uses, which can help decrease loading time."
+        }
+    ],
+    "FR": [
+        {
+            "question": "Que puis-je faire pour accélérer le démarrage de MyApp?",
+            "answer": "Vous pouvez désactiver les programmes de démarrage inutiles et vider le cache pour améliorer la vitesse de démarrage de MyApp."
+        },
+        {
+            "question": "Comment puis-je réduire le lag dans MyApp lors du traitement des données?",
+            "answer": "Essayez d'optimiser les tâches de traitement des données, comme les diviser en plus petits lots ou utiliser des algorithmes plus efficaces."
+        },
+        {
+            "question": "Quelles sont les meilleures pratiques pour améliorer les performances de MyApp lorsqu'il traite de grands fichiers?",
+            "answer": "Assurez-vous que votre système dispose de suffisamment de mémoire et envisagez d'utiliser des techniques de compression de fichiers pour gérer les grands fichiers plus efficacement."
+        },
+        {
+            "question": "Comment puis-je améliorer les performances de MyApp sur des dispositifs à faibles spécifications?",
+            "answer": "Vous devriez réduire les paramètres graphiques ou désactiver les fonctionnalités non essentielles pour améliorer les performances sur les dispositifs à faibles spécifications."
+        },
+        {
+            "question": "Quelles étapes puis-je suivre pour optimiser MyApp lors de l'exécution de plusieurs instances?",
+            "answer": "Limitez les ressources que chaque instance peut utiliser et assurez-vous qu'il y a suffisamment de RAM système pour gérer plusieurs instances de manière efficace."
+        },
+        {
+            "question": "Comment dépanner MyApp si elle fonctionne lentement?",
+            "answer": "Vous pouvez vérifier les processus en arrière-plan qui consomment des ressources, mettre à jour MyApp ou le réinstaller pour résoudre les problèmes de performance."
+        },
+        {
+            "question": "Quels paramètres puis-je ajuster dans MyApp pour maximiser ses performances lors de jeux?",
+            "answer": "Vous pouvez ajuster les paramètres graphiques à des niveaux inférieurs, vous assurer que vos pilotes sont à jour, et fermer d'autres applications en cours d'exécution en arrière-plan."
+        },
+        {
+            "question": "Comment puis-je m'assurer que MyApp reste réactif en cas de forte charge?",
+            "answer": "Mettez en œuvre des stratégies d'équilibrage de la charge et d'allocation des ressources pour aider à garder MyApp réactif lorsqu'il est fortement utilisé."
+        },
+        {
+            "question": "Que puis-je faire si MyApp devient non réactif lors de grands téléchargements de données?",
+            "answer": "Envisagez de diviser les téléchargements en morceaux plus petits et d'augmenter votre bande passante Internet pour améliorer la réactivité."
+        },
+        {
+            "question": "Comment puis-je réduire le temps de chargement de MyApp?",
+            "answer": "Vous pouvez optimiser MyApp en diminuant le nombre de plugins et de dépendances qu'il utilise, ce qui peut aider à réduire le temps de chargement."
+        }
+    ]
+}

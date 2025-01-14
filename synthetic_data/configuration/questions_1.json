@@ -1,0 +1,86 @@
+{
+    "EN": [
+        {
+            "question": "How can I configure MyApp to connect to a remote database?",
+            "answer": "You can configure MyApp to connect to a remote database by editing the database configuration file and entering the remote database credentials."
+        },
+        {
+            "question": "What settings do I need to change to enable notifications in MyApp?",
+            "answer": "To enable notifications in MyApp, navigate to the settings menu and toggle the notifications option to 'on'."
+        },
+        {
+            "question": "How do I set up user permissions in MyApp?",
+            "answer": "You can set up user permissions in MyApp by accessing the user management section and assigning roles to each user."
+        },
+        {
+            "question": "How can I change the default theme in MyApp?",
+            "answer": "To change the default theme in MyApp, go to the appearance settings and select your preferred theme from the dropdown list."
+        },
+        {
+            "question": "What is the process to integrate MyApp with another service?",
+            "answer": "To integrate MyApp with another service, you need to use the API keys provided in the integration settings and follow the specific integration guidelines."
+        },
+        {
+            "question": "How do I configure backup settings in MyApp?",
+            "answer": "You can configure backup settings in MyApp by going to the backup section in the settings menu and setting your preferred backup frequency."
+        },
+        {
+            "question": "How can I update the configuration file for MyApp?",
+            "answer": "To update the configuration file for MyApp, locate the config file in the installation directory and edit it using a text editor."
+        },
+        {
+            "question": "What do I need to do to enable SSL in MyApp?",
+            "answer": "To enable SSL in MyApp, you will need to upload your SSL certificate and key in the security settings section."
+        },
+        {
+            "question": "How can I reset the configuration settings to default in MyApp?",
+            "answer": "To reset the configuration settings to default in MyApp, go to the settings menu and select the 'Reset to default' option."
+        },
+        {
+            "question": "What configuration is required for email notifications in MyApp?",
+            "answer": "You will need to configure the SMTP settings in MyApp to enable email notifications, including the SMTP server, port, and login credentials."
+        }
+    ],
+    "FR": [
+        {
+            "question": "Comment configurer MyApp pour se connecter à une base de données distante?",
+            "answer": "Vous pouvez configurer MyApp pour se connecter à une base de données distante en modifiant le fichier de configuration de la base de données et en entrant les informations d'identification de la base de données distante."
+        },
+        {
+            "question": "Quelles options dois-je changer pour activer les notifications dans MyApp?",
+            "answer": "Pour activer les notifications dans MyApp, allez dans le menu des paramètres et activez l'option de notification."
+        },
+        {
+            "question": "Comment définir les autorisations des utilisateurs dans MyApp?",
+            "answer": "Vous pouvez définir les autorisations des utilisateurs dans MyApp en accédant à la section de gestion des utilisateurs et en attribuant des rôles à chaque utilisateur."
+        },
+        {
+            "question": "Comment puis-je changer le thème par défaut dans MyApp?",
+            "answer": "Pour changer le thème par défaut dans MyApp, allez dans les paramètres d'apparence et sélectionnez votre thème préféré dans la liste déroulante."
+        },
+        {
+            "question": "Quel est le processus pour intégrer MyApp avec un autre service?",
+            "answer": "Pour intégrer MyApp avec un autre service, vous devez utiliser les clés API fournies dans les paramètres d'intégration et suivre les lignes directrices spécifiques d'intégration."
+        },
+        {
+            "question": "Comment puis-je configurer les paramètres de sauvegarde dans MyApp?",
+            "answer": "Vous pouvez configurer les paramètres de sauvegarde dans MyApp en allant dans la section de sauvegarde du menu des paramètres et en définissant votre fréquence de sauvegarde préférée."
+        },
+        {
+            "question": "Comment mettre à jour le fichier de configuration de MyApp?",
+            "answer": "Pour mettre à jour le fichier de configuration de MyApp, localisez le fichier de configuration dans le répertoire d'installation et éditez-le avec un éditeur de texte."
+        },
+        {
+            "question": "Que dois-je faire pour activer SSL dans MyApp?",
+            "answer": "Pour activer SSL dans MyApp, vous devrez télécharger votre certificat SSL et votre clé dans la section des paramètres de sécurité."
+        },
+        {
+            "question": "Comment puis-je réinitialiser les paramètres de configuration par défaut dans MyApp?",
+            "answer": "Pour réinitialiser les paramètres de configuration par défaut dans MyApp, allez dans le menu des paramètres et sélectionnez l'option 'Réinitialiser par défaut'."
+        },
+        {
+            "question": "Quelle configuration est nécessaire pour les notifications par mail dans MyApp?",
+            "answer": "Vous devrez configurer les paramètres SMTP dans MyApp pour activer les notifications par mail, y compris le serveur SMTP, le port et les informations d'identification de connexion."
+        }
+    ]
+}

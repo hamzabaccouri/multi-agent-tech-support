@@ -1,0 +1,6 @@
+user: hi 
+assistant: Hello! How can I assist you today?
+user: I'm unable to connect to the internet while using MyApp?
+assistant: I understand your question about internet connection, MyApp, network settings. This seems to be a configuration issue that requires specific expertise. Let me consult with our technical expert.
+
+Please check your network settings and ensure that your device is connected to the internet. Restarting your device may also help.

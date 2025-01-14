@@ -1,0 +1,12 @@
+user: hi there 
+assistant: Hello! How can I assist you today?
+user: What are the system requirements for installing MyApp?
+assistant: To install MyApp, your system should meet the following requirements:
+user: I'm experiencing severe performance degradation in MyApp when processing multiple large CSV files simultaneously. The system shows high memory usage (around 90%), and I'm getting 'OutOfMemoryError' in the logs. I've already tried increasing the JVM heap size to 8GB but the issue persists. The CPU usage also spikes to 100% during these operations. What could be causing this and how can I optimize the application?
+assistant: I understand your question about OutOfMemoryError, JVM heap size, CPU usage, large CSV files. This seems to be a performance issue that requires specific expertise. Let me consult with our technical expert.
+user: When trying to integrate MyApp with our company's SQL Server database, I'm getting multiple dependency conflicts. The error log shows 'javax.persistence.PersistenceException' and 'org.hibernate.HibernateException'. I've checked the connection strings and database permissions, and tried updating all dependencies in the pom.xml file, but the application still fails to establish a connection. The specific version of SQL Server we're using is 2019 Enterprise. Can you help troubleshoot this integration issue?
+assistant: I understand your question about SQL Server, dependency conflicts, javax.persistence.PersistenceException, org.hibernate.HibernateException, pom.xml, connection strings, database permissions. This seems to be a integration issue that requires specific expertise. Let me consult with our technical expert.
+user: I'm experiencing freezing when I run MyApp on my mobile device.
+assistant: I understand your question about freezing, MyApp, mobile device. This seems to be a performance issue that requires specific expertise. Let me consult with our technical expert.
+
+Try closing other applications running in the background or restarting your device to free up resources.

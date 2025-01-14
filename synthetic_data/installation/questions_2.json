@@ -1,0 +1,46 @@
+{
+    "EN": [
+        {
+            "question": "I'm getting an error 'Unable to access the installation package' while installing MyApp.",
+            "answer": "Please check if you have the correct permissions to access the installation package and try running the installer as an administrator."
+        },
+        {
+            "question": "What are the system requirements for installing MyApp?",
+            "answer": "The minimum system requirements for MyApp include Windows 10 or higher, 4GB of RAM, and 200MB of free disk space."
+        },
+        {
+            "question": "How do I uninstall MyApp?",
+            "answer": "You can uninstall MyApp by going to Control Panel > Programs > Uninstall a program, and then selecting MyApp from the list and clicking 'Uninstall'."
+        },
+        {
+            "question": "Why does the installation freeze at 50%?",
+            "answer": "This could be due to insufficient disk space or a conflict with other software. Ensure you have enough disk space and try disabling any antivirus software temporarily."
+        },
+        {
+            "question": "Can I install MyApp on a Mac?",
+            "answer": "Currently, MyApp is only supported on Windows operating systems. We recommend checking for future updates for Mac compatibility."
+        }
+    ],
+    "FR": [
+        {
+            "question": "Je reçois une erreur 'Impossible d'accéder au package d'installation' lors de l'installation de MyApp.",
+            "answer": "Veuillez vérifier si vous avez les droits d'accès au package d'installation et essayez de lancer l'installateur en tant qu'administrateur."
+        },
+        {
+            "question": "Quelles sont les exigences système pour installer MyApp?",
+            "answer": "Les exigences système minimales pour MyApp sont Windows 10 ou supérieur, 4 Go de RAM et 200 Mo d'espace disque libre."
+        },
+        {
+            "question": "Comment désinstaller MyApp?",
+            "answer": "Vous pouvez désinstaller MyApp en allant dans le Panneau de configuration > Programmes > Désinstaller un programme, puis en sélectionnant MyApp dans la liste et en cliquant sur 'Désinstaller'."
+        },
+        {
+            "question": "Pourquoi l'installation se fige à 50%?",
+            "answer": "Cela pourrait être dû à un espace disque insuffisant ou à un conflit avec d'autres logiciels. Assurez-vous d'avoir suffisamment d'espace disque et essayez de désactiver temporairement tout logiciel antivirus."
+        },
+        {
+            "question": "Puis-je installer MyApp sur un Mac?",
+            "answer": "Actuellement, MyApp n'est pris en charge que sur les systèmes d'exploitation Windows. Nous vous conseillons de vérifier les mises à jour futures pour la compatibilité avec Mac."
+        }
+    ]
+}
