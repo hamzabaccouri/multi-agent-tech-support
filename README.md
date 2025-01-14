@@ -1,5 +1,8 @@
 ## Agentic Technical Support System
-A multi-agent AI-powered technical support system that simulates interaction between a user and two collaborative AI agents. The system uses a first-line support agent (Agent A) for user interaction and a technical expert agent (Agent B) with RAG capabilities for detailed technical solutions.
+A multi-agent AI-powered technical support system that simulates interaction between a user and two collaborative AI agents.
+
+    . Agent A: A first-line support agent that interacts with users.
+    . Agent B: A technical expert agent leveraging Retrieval-Augmented Generation (RAG) capabilities for detailed technical solutions.
 
 ## Project Overview
 This system consists of:
